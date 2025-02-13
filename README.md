@@ -1,5 +1,3 @@
-# omers-peopleanalytics
-omers-peopleanalytics
 Cleaning Data
 •	The dataset consists of 100 rows and 23 columns, including 3 text-based features and 20 numeric features.
 •	There is one row with two missing values in the dataset, under ID 79, where the cells for 'Level' and 'Tenure' are empty.
