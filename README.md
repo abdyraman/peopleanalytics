@@ -3,7 +3,7 @@ Cleaning Data
 •	There is one row with two missing values in the dataset, under ID 79, where the cells for 'Level' and 'Tenure' are empty.
 •	I corrected the typo in the value name 'Individual Contrbutor,' changing it to 'Individual Contributor in the "Level" column. Additionally, I resolved the inconsistency in the spelling in the "Tenure" column where '5-10 years' appeared in two variations. Both cases have been unified to ensure consistent spelling.
 Descriptive Analysis
-I combined two datasets in the "ID" column. The responses show that 53% of staff are based in Canada, 24% in the USA and 23% in Europe. Regarding tenure, 35% of staff were with OMERS for less than a year, 23% each for 1-5 and 5-10 years, and 18% have been with OMERS for more than 10 years. In terms of roles,  53% of staff are individual contributors, 23% are managers, 14% are directors, and 10% hold VP or higher positions.
+I combined two datasets in the "ID" column. The responses show that 53% of staff are based in Canada, 24% in the USA and 23% in Europe. Regarding tenure, 35% of staff were with for less than a year, 23% each for 1-5 and 5-10 years, and 18% have been with company for more than 10 years. In terms of roles,  53% of staff are individual contributors, 23% are managers, 14% are directors, and 10% hold VP or higher positions.
 Statistical analysis
 The engagement index 50% of the values (the median) fall within the interquartile range (25% to 75%) of 3.15 to 4.05. The median (50%) value of the engagement index is 3.6.
 The engagement index is calculated as the mean of five variables. Three of these variables show a right-skewed distribution, with 50% of respondents giving high ratings of 4 or 5. These variables are:
