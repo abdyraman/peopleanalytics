@@ -9,9 +9,7 @@ I combined two datasets in the "ID" column. The responses show that 53% of staff
 Statistical analysis
 
 The engagement index 50% of the values (the median) fall within the interquartile range (25% to 75%) of 3.15 to 4.05. The median (50%) value of the engagement index is 3.6.
-The engagement index is calculated as the mean of five variables. Three of these variables show a right-skewed distribution, with 50% of respondents giving high ratings of 4 or 5. 
-
-These variables are:
+The engagement index is calculated as the mean of five variables. Three of these variables show a right-skewed distribution, with 50% of respondents giving high ratings of 4 or 5. These variables are:
 •	'I am proud to work for this company.'
 •	'I rarely think about looking for a new job with another company.'
 •	'I would recommend this company to people I know as a great place to work.'
