@@ -17,8 +17,10 @@ The engagement index is calculated as the mean of five variables. Three of these
 The remaining two variables follow a normal distribution:
 •	'My work gives me a feeling of personal accomplishment.'
 •	'This company motivates me to contribute more than is normally required to complete my work.'
-The remaining 14 variables pertain to employee experience. A notable concern is the variable "There is open and honest communication at this company." Both the mean (2.710) and median (3.0) values are relatively low, suggesting that many respondents have a negative perception of communication within the company.
-]
+The remaining 14 variables pertain to employee experience. 
+
+A notable concern is the variable "There is open and honest communication at this company." Both the mean (2.710) and median (3.0) values are relatively low, suggesting that many respondents have a negative perception of communication within the company.
+
 In contrast, some variables receive higher ratings, indicating positive evaluations from respondents. These include:
 •	"I trust my manager"
 •	"My manager supports my efforts to balance my work and personal life"
