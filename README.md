@@ -1,9 +1,6 @@
 Cleaning Data
 
-•	The dataset consists of 100 rows and 23 columns, including 3 text-based features and 20 numeric features.
-•	There is one row with two missing values in the dataset, under ID 79, where the cells for 'Level' and 'Tenure' are empty.
-•	I corrected the typo in the value name 'Individual Contrbutor,' changing it to 'Individual Contributor in the "Level" column. Additionally, I resolved the inconsistency in the spelling in the "Tenure" column where '5-10 years' appeared in two variations. Both cases have been unified to ensure consistent spelling.
-
+The dataset consists of 100 rows and 23 columns, including 3 text-based features and 20 numeric features. There is one row with two missing values in the dataset, under ID 79, where the cells for 'Level' and 'Tenure' are empty. I corrected the typo in the value name 'Individual Contrbutor,' changing it to 'Individual Contributor in the "Level" column. Additionally, I resolved the inconsistency in the spelling in the "Tenure" column where '5-10 years' appeared in two variations. Both cases have been unified to ensure consistent spelling.
 
 Descriptive Analysis
 
